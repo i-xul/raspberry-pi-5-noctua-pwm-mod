@@ -22,7 +22,8 @@ This is especially useful when using the Raspberry Pi 5 as a small server with N
   https://thepihut.com/products/noctua-nf-a4x10-5v-pwm-40x10mm-quiet-cooling-fan
 - JST-SH 4-pin cable, STEMMA QT / Qwiic compatible, 100 mm  
   https://partco.fi/tuote/jst-sh-4-pin-kaapeli-stemma-qt-qwiic-yhteensopiva-100mm-14644
-- Low-profile Raspberry Pi 5 heatsink
+- Low Profile Heatsink for Raspberry Pi 5
+  https://thepihut.com/products/low-profile-heatsink-for-raspberry-pi-5
 - Heat shrink tubing
 - Soldering tools
 - Optional: 40 mm metal fan guard
